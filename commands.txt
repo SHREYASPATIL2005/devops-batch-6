@@ -1,0 +1,9 @@
+This is a file for Today's Commands
+
+
+git init : This will push the folder into git repository
+git add : Untracked to Staged
+git commit : Staged to Tracked
+git status : It will provide the status ( Untracked , Tracked , ....)
+
+
