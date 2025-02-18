@@ -7,4 +7,6 @@ git commit : Staged to Tracked
 git status : It will provide the status ( Untracked , Tracked , ....)
 git retore : To retore deleted working directory file from Git
 git log : Provide commit history , id's
+git config --global user.name "Shreyas"
+git config --global user.email ""
 
