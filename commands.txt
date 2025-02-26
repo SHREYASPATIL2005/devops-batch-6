@@ -9,4 +9,6 @@ git retore : To retore deleted working directory file from Git
 git log : Provide commit history , id's
 git config --global user.name "Shreyas"
 git config --global user.email ""
-
+git branch : Give list  of branches
+git checkout -b <branch_name>: Add new branch
+git checkout <branch_name>: To switch branch
